@@ -114,6 +114,10 @@ body{
     background-image:url('../images/mute_on.png') ; 
 }
 
+#mute-btn.off, #mute-btn:hover{
+    background-image:url('../images/mute_off.png') ; 
+}
+
 .copyright{
     position: fixed;
     bottom: 0px;
